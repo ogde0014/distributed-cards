@@ -40,4 +40,30 @@ li {
   flex-direction: column;
   border: 2px solid #623b0c;
   padding: 1em;
+  border-radius: 8px;
+  background: #ede3db;
+}
+
+a {
+  border-radius: 8px;
+  background: #623b0c;
+  padding: .6em;
+  color: #fff;
+  justify-content: space-between;
+  text-decoration: none;
+  margin-top: auto;
+}
+
+img {
+  display: bold;
+  width: 100%;
+}
+
+ul {
+  grid-column: auto;
+}
+
+p {
+  padding-top: .4rem;
+  padding-bottom: .4rem;
 }
